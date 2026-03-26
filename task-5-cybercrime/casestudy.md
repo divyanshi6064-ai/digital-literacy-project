@@ -1,4 +1,4 @@
-##Cybercrime Case Study: UPI Fraud
+Cybercrime Case Study: UPI Fraud
 
 UPI fraud is a common cybercrime in India where scammers trick people into transferring money by misusing digital payment systems. In this type of fraud, criminals often contact victims through phone calls, messages, or fake links.
 
